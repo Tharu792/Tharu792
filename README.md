@@ -16,6 +16,7 @@
 </a>
 
 - 🔭 I’m currently pursuing a <a href="https://www.example.com" target="blank">Higher Diploma in Computing and Software Engineering</a>
+- 🔭 I’m Following a <a href="https://www.example.com" target="blank">BSC(Hons) Software Engineering degree</a>
 - 🌱 Focused on advanced Android development and refining my Java skills
 - 👯 I’m looking to collaborate on <strong>Android app development, web development, or PHP/Firebase projects</strong>
 - 💬 Feel free to ask me about <strong>Java programming, Android development, web development, PHP, Firebase, or logo design!</strong>
